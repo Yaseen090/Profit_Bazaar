@@ -21,7 +21,7 @@ Android Studio IDE <br/>
 
 ## Sign Up
 <a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500"></a>
-<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500">
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar03.PNG" width="300" height="500"></a>
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar03.PNG" width="300" height="500">
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar04.PNG" width="300" height="500">
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar05.PNG" width="300" height="500">
