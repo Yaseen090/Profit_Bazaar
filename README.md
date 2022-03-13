@@ -20,7 +20,7 @@ Android Studio IDE <br/>
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar01.PNG" width="300" height="500">
 
 ## Sign Up
-<a href="url"><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500"></a>
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500">
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar03.PNG" width="300" height="500">
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar04.PNG" width="300" height="500">
