@@ -19,10 +19,10 @@ Android Studio IDE <br/>
 ## Login 
 ## ![Screenshot](ProfitBazaar01.PNG) 
 ## Sign Up
-#### ![Screenshot](ProfitBazaar02.PNG) 
-#### ![Screenshot](ProfitBazaar03.PNG) 
-#### ![Screenshot](ProfitBazaar04.PNG) 
-#### ![Screenshot](ProfitBazaar05.PNG) 
+![Screenshot](ProfitBazaar02.PNG) 
+![Screenshot](ProfitBazaar03.PNG) 
+![Screenshot](ProfitBazaar04.PNG) 
+![Screenshot](ProfitBazaar05.PNG) 
 ## Home
 ![Screenshot](ProfitBazaar06.PNG) 
 ![Screenshot](ProfitBazaar07.PNG) 
