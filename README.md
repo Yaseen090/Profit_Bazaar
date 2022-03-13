@@ -18,24 +18,24 @@ Android Studio IDE <br/>
 ## Preview:
 ## Login 
 <img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar01.PNG" width="300" height="500">
-![Screenshot] (ProfitBazaar01.PNG width="10") 
+
 ## Sign Up
-![Screenshot](ProfitBazaar02.PNG) 
-![Screenshot](ProfitBazaar03.PNG) 
-![Screenshot](ProfitBazaar04.PNG) 
-![Screenshot](ProfitBazaar05.PNG) 
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar03.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar04.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar05.PNG" width="300" height="500">
 ## Home
-![Screenshot](ProfitBazaar06.PNG) 
-![Screenshot](ProfitBazaar07.PNG) 
-## Mobile Post
-![Screenshot](ProfitBazaar08.PNG) 
-![Screenshot](ProfitBazaar09.PNG) 
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar06.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar07.PNG" width="300" height="500">
+## Mobile Pos
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar08.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar09.PNG" width="300" height="500">
 ## Bikes Post
-![Screenshot](ProfitBazaar10.PNG) 
-![Screenshot](ProfitBazaar11.PNG) 
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar10.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar11.PNG" width="300" height="500">
 ## Cars Post
-![Screenshot](ProfitBazaar12.PNG) 
-![Screenshot](ProfitBazaar13.PNG) 
-![Screenshot](ProfitBazaar14.PNG) <br/>
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar12.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar13.PNG" width="300" height="500">
+<img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar14.PNG" width="300" height="500"><br/>
 Thanks
 ## All Copyrights are reserved by the owner.
