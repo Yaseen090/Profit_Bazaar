@@ -15,13 +15,13 @@ Firebase Authentication <br/>
 Android Studio IDE <br/>
 
 ## Preview:
-## Login and Sign Up
-![Screenshot](ProfitBazaar.PNG) 
-![Screenshot](NYA_Preparation_Quiz_App2.PNG) 
-![Screenshot](NYA_Preparation_Quiz_App3.PNG) 
-![Screenshot](NYA_Preparation_Quiz_App4.PNG) 
-![Screenshot](NYA_Preparation_Quiz_App5.PNG) 
-![Screenshot](NYA_Preparation_Quiz_App6.PNG) 
+## Login 
+![Screenshot](ProfitBazaar01.PNG) 
+## Sign Up
+![Screenshot](ProfitBazaar02.PNG) 
+![Screenshot](ProfitBazaar03.PNG) 
+![Screenshot](ProfitBazaar04.PNG) 
+## 
 ## NYA_Admin_App
 ![Screenshot](NYA_Admin_App1.PNG) 
 ![Screenshot](NYA_Admin_App2.PNG) 
