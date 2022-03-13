@@ -1,3 +1,4 @@
+## Profit Bazaar (E-Commerce App)
 ## Show of Skill
 ## Description
 “Profit Bazaar” is kind of like a e-commerce app but only contains mobile phones, bikes and cars, that a client asked me to make. It is for all the users who would enjoy buying one these things from comfort of home. <br />.
