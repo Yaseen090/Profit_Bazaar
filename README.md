@@ -22,9 +22,19 @@ Android Studio IDE <br/>
 ![Screenshot](ProfitBazaar03.PNG) 
 ![Screenshot](ProfitBazaar04.PNG) 
 ![Screenshot](ProfitBazaar05.PNG) 
-## NYA_Admin_App
-![Screenshot](NYA_Admin_App1.PNG) 
-![Screenshot](NYA_Admin_App2.PNG) 
-![Screenshot](NYA_Admin_App3.PNG) <br/>
+## Home
+![Screenshot](ProfitBazaar06.PNG) 
+![Screenshot](ProfitBazaar07.PNG) 
+## Mobile Post
+![Screenshot](ProfitBazaar08.PNG) 
+![Screenshot](ProfitBazaar09.PNG) 
+## Bikes Post
+![Screenshot](ProfitBazaar10.PNG) 
+![Screenshot](ProfitBazaar11.PNG) 
+## Cars Post
+![Screenshot](ProfitBazaar12.PNG) 
+![Screenshot](ProfitBazaar13.PNG) 
+![Screenshot](ProfitBazaar14.PNG) 
+<br/>
 Thanks
 ## All Copyrights are reserved by the owner.
