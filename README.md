@@ -17,7 +17,7 @@ Android Studio IDE <br/>
 
 ## Preview:
 ## Login 
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar01.PNG" width="250" height="420"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar01.PNG" width="250" height="440"></a>
 
 ## Sign Up
 <a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500"></a>
