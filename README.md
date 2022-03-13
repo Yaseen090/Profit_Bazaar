@@ -1,6 +1,7 @@
 ## Show of Skill
 ## Description
-“Profit Bazaar” is kind of like a e-commerce app but only contains mobile phones, bikes and cars, that a client asked me to make. It is for all the users who would enjoy buying one these things from comfort of home. <br />. This app is both for sellers and buyers. Sellers can post their product on the app and buyers can view all of these products and buy them. Its a copyrighted app so I can't share the source code. 
+“Profit Bazaar” is kind of like a e-commerce app but only contains mobile phones, bikes and cars, that a client asked me to make. It is for all the users who would enjoy buying one these things from comfort of home. <br />.
+This app is both for sellers and buyers. Sellers can post their product on the app and buyers can view all of these products and buy them. Its a copyrighted app so I can't share the source code. 
 
 ## Functionality
 User Login<br/>
