@@ -35,7 +35,6 @@ Android Studio IDE <br/>
 ## Cars Post
 ![Screenshot](ProfitBazaar12.PNG) 
 ![Screenshot](ProfitBazaar13.PNG) 
-![Screenshot](ProfitBazaar14.PNG) 
-<br/>
+![Screenshot](ProfitBazaar14.PNG) <br/>
 Thanks
 ## All Copyrights are reserved by the owner.
