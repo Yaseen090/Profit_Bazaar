@@ -20,23 +20,23 @@ Android Studio IDE <br/>
 <a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar01.PNG" width="250" height="440"></a>
 
 ## Sign Up
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar03.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar04.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar05.PNG" width="300" height="500"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar02.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar03.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar04.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar05.PNG" width="250" height="440"></a>
 ## Home
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar06.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar07.PNG" width="300" height="500"></a>
-## Mobile Po
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar08.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar09.PNG" width="300" height="500"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar06.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar07.PNG" width="250" height="440"></a>
+## Mobile Post
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar08.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar09.PNG" width="250" height="440"></a>
 ## Bikes Post
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar10.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar11.PNG" width="300" height="500"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar10.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar11.PNG" width="250" height="440"></a>
 ## Cars Post
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar12.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar13.PNG" width="300" height="500"></a>
-<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar14.PNG" width="300" height="500"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar12.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar13.PNG" width="250" height="440"></a>
+<a><img src="https://github.com/Yaseen090/Profit_Bazaar/blob/main/ProfitBazaar14.PNG" width="250" height="440"></a>
 <br/>
 Thanks
 ## All Copyrights are reserved by the owner.
