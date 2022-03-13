@@ -17,7 +17,7 @@ Android Studio IDE <br/>
 
 ## Preview:
 ## Login 
-![Screenshot] width=10(ProfitBazaar01.PNG) 
+![Screenshot] (ProfitBazaar01.PNG width=10) 
 ## Sign Up
 ![Screenshot](ProfitBazaar02.PNG) 
 ![Screenshot](ProfitBazaar03.PNG) 
